@@ -1,3 +1,3 @@
 # JavaScript 30 projects
 
-## Let's skill up!
+## 🚀 Let's skill up!
